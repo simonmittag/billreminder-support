@@ -19,7 +19,13 @@ Please start with the FAQ below. If you cannot find a solution to your problem, 
 → Follow the prompts on the BillReminder UI, or open the "Settings" app on your phone, then scroll down until you find BillReminder. Turn on Notifications and Camera here, easy.
 
 ### Can I pay my bills directly in BillReminder?
-→ Unfortunately not, however if you have are seriously interested, please raise an issue or upvote the existing one.
+→ Unfortunately not, however if you are interested in this feature, we'd love to hear from you.
 
-### Can i pinch to zoom bills so i can read them better?
+### Can I pinch to zoom bills so i can read them better?
 → This is work in progress, please be patient.
+
+### Can I change the due date on a bill?
+→ This is on our backlog. If you think this feature is useful, please get in touch by raising an issue.
+
+### Can I delete a bill?
+→ We keep your bills around on the device, so you can find payments later. We're thinking of archiving old bills in the future though. If you like this idea, please let us know.
